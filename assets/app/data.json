@@ -21,57 +21,57 @@
     {
       "key": "address",
       "name": "Domisili",
-      "value": "Tegal Parang, Mampang Prapatan, Jakarta Selatan"
+      "value": "Komplek Karang Tengah Permai, Jl. Yudistira Blok TM No 12 A, Tangerang, Karang tengah"
     }
   ],
   "contact": [
     {
       "type": "phone",
       "icon": "phone",
-      "value": "+62 857 200 000 70"
+      "value": "+62 856 91 777 022"
     },
     {
       "type": "email",
       "icon": "envelope-o",
-      "value": "syukron.zahri@gmail.com"
+      "value": "chandraaknesnugroho@gmail.com"
     },
     {
-      "type": "linkedin",
-      "icon": "linkedin-square",
-      "value": "linkedin.com/in/syukron-zahri"
+      "type": "gitlab",
+      "icon": "gitlab",
+      "value": "gitlab.com/cabasel"
     },
     {
       "type": "github",
       "icon": "github",
-      "value": "github.com/syukronzahri"
+      "value": "github.com/cabasel"
     },
     {
       "type": "homepage",
       "icon": "link",
-      "value": "syukronzahri.github.io"
+      "value": "cabasel.github.io/cabasel"
     }
   ],
-  "about": "Software developer yang memiliki passion, dengan pengalaman lebih dari 5 tahun di bidang [i]web development[/i] di industri pelayanan medis. Memiliki pengalaman mengembangkan aplikasi rumah sakit dengan jumlah modul yang besar dan mengetahui seluk beluk proses bisnis rumah sakit yang kompleks, baik [i]front-office[/i] maupun [i]back-office[/i]. Seorang praktisi teknis yang antusias, pekerja keras, teliti, suka mempelajari hal baru and berusaha mengikuti teknik dan desain yang bagus di dalam industri software development, suka mencari solusi yang lebih bagus dan efisien, suka berbagi ilmu dan menimba ilmu dari orang lain. Selalu menekankan pada pekerjaan yang terstruktur dengan rapi dan bersih. Saat ini sedang mencari peluang baru dengan mempelajari teknologi yang sedang trending seperti Golang, Docker, Kubernetes, ReactJS, NoSQL, [i]microservices[/i], dan [i]cloud[/i].",
+  "about": "Software developer yang memiliki passion, dengan pengalaman lebih dari 5 tahun di bidang [i]web development dan dekstop[/i] di industri pelayanan medis. Memiliki pengalaman mengembangkan aplikasi rumah sakit dengan jumlah modul yang besar dan mengetahui seluk beluk proses bisnis rumah sakit yang kompleks, baik [i]front-office[/i] maupun [i]back-office[/i]. Seorang praktisi teknis yang antusias, pekerja keras, teliti, suka mempelajari hal baru and berusaha mengikuti teknik dan desain yang bagus di dalam industri software development, suka mencari solusi yang lebih bagus dan efisien, suka berbagi ilmu dan menimba ilmu dari orang lain. Selalu menekankan pada pekerjaan yang terstruktur dengan rapi dan bersih.",
   "skills": [
     {
       "name":  "PHP",
-      "value": 75
+      "value": 70
     },
     {
       "name":  "CodeIgniter",
-      "value": 70
+      "value": 60
     },
     {
       "name":  "MVC Concept",
-      "value": 70
+      "value": 60
     },
     {
       "name":  "RESTful API Concept",
-      "value": 70
+      "value": 50
     },
     {
       "name":  "jQuery",
-      "value": 70
+      "value": 55
     },
     {
       "name":  "MySQL / MariaDB",
@@ -79,51 +79,27 @@
     },
     {
       "name":  "JavaScript",
-      "value": 65
+      "value": 55
     },
     {
       "name":  "HTML & CSS",
-      "value": 60
-    },
-    {
-      "name":  "Git",
       "value": 50
     },
     {
-      "name":  "HTML5 Canvas",
-      "value": 45
-    },
-    {
-      "name":  "Jasper Report",
-      "value": 45
-    },
-    {
-      "name":  "Golang",
+      "name":  "Git",
       "value": 40
     },
     {
-      "name":  "Zebra Programming Language",
-      "value": 35
+      "name":  "HTML5 Canvas",
+      "value": 30
     },
     {
-      "name":  "Ubuntu Linux",
-      "value": 35
+      "name":   "Vb.Net",
+      "value":  45
     },
     {
-      "name":  "Docker",
-      "value": 25
-    },
-    {
-      "name":  "Java",
-      "value": 20
-    },
-    {
-      "name":  "Android",
-      "value": 15
-    },
-    {
-      "name":  "ReactJS",
-      "value": 15
+      "name":   "Power Builder",
+      "value":  30
     }
   ],
   "experiences": [
@@ -135,7 +111,7 @@
       "description": "Pekerjaan utama saya di RSUP Fatmawati adalah sebagai software developer dan analis sistem. Terkadang saya mendapat pekerjaan menginstall dan mengkonfigurasi aplikasi di server, mengumpulkan requirement dari user untuk pembuatan aplikasi, membuat mockup aplikasi, merancang database, bekerja dengan bagian akuntansi dalam pembuatan laporan logistik, sosialisasi penggunaan aplikasi kepada user dan pekerjaan lainnya.\nPada posisi ini, saya dan tim mengembangkan sistem informasi rumah sakit yang bernama Fatmahost, sebuah aplikasi monolitik yang terdiri dari banyak modul yang menunjang proses bisnis rumah sakit. Saya terlibat dalam pengembangan back-end dan front-end. Berikut ini adalah project / modul aplikasi yang saya kembangkan:",
       "displayDateType": "MonthYear",
       "isRangeDate": true,
-      "from": "2015-04-01",
+      "from": "2014-06-01",
       "to": "",
       "workDone": [
         {
@@ -187,52 +163,52 @@
           "description": "E-Medical Record adalah data rekam medis pasien yang tersimpan secara elektronik dan terpusat. Modul ini membantu para pekerja medis seperti dokter dan perawat dalam mempercepat proses mencari data dan melihat riwayat rekam medis pasien. Pada project ini saya dan tim mengembangkan rekam medis untuk instalasi rawat jalan reguler dan rawat inap. Modul E-Medical Record ini terdiri dari beberapa form elektronik untuk masing-masing spesialisasi seperti:[ul][li]Pemeriksaan awal[/li][li]Pemeriksaan kontrol[/li][li]Pemeriksaan mata[/li][li]Pemeriksaan gigi dan mulut[/li][li]Pemeriksaan psikiatrik[/li][li]Early Warning System[/li][li]Rencana Lab[/li][li]Rencana Radiologi[/li][li]Pengkajian, terapi dan intervensi keperawatan[/li][li]dan lain-lain[/ul]"
         },
         {
-          "title": "Front Office Unit Transfusi Darah",
-          "isRangeDate": true,
-          "displayDateType": "MonthYear",
-          "from": "2018-06-01",
-          "to": "2018-08-01",
-          "description": "Mengembangkan bagian front office bagian Unit Transfusi Darah dan membuat cetakan label untuk labu darah"
-        },
-        {
-          "title": "Back-office Keuangan",
-          "isRangeDate": true,
-          "displayDateType": "MonthYear",
-          "from": "2017-10-01",
-          "to": "2018-03-01",
-          "description": "Project ini migrasi aplikasi keuangan lama menjadi bagian modul di Fatmahost dan juga memindahkan data dari database lama ke dalam database Fatmahost. Selain itu pada modul back-office keuangan ini dikembangkan fitur-fitur dan alur proses bisnis yang baru. Modul ini terdiri dari: [ul][li]Master data back-office keuangan[/li][li]Mata anggaran dan kegiatan anggaran[/li][li]Kasbon, kwitansi langsung dan uang muka sementara[/li][li]E-voucher[/li][li]Penerimaan tagihan dari vendor, verifikasi dan tracking tagihan tersebut untuk mengetahui sejauh mana tagihan tersebut diproses[/li][li]Report seperti laporan penyerapan anggaran, tagihan yang belum dan sudah terbayar[/li][li]dan lain-lain[/li][/ul]"
-        },
-        {
-          "title": "Medical Checkup Summary",
+          "title": "Formulir Survei Infeksi",
           "isRangeDate": true,
           "displayDateType": "MonthYear",
           "from": "2017-02-01",
-          "to": "2017-03-01",
-          "description": "Membuat summary medical checkup untuk pasien yang menjalani pemeriksaan di unit MCU"
+          "to": "2017-04-01",
+          "description": "Modul yang memfasilitasi keadaan pasien selama periode rawat inap"
         },
         {
-          "title": "Online Bed Dashboard",
+          "title": "Anjuran Pendaftaran Mandiri (offline)",
+          "isRangeDate": true,
+          "displayDateType": "MonthYear",
+          "from": "2016-08-01",
+          "to": "2016-12-01",
+          "description": "Modul yang memfasilitasi pasien yang tidak mendapatkan SEP dari BPJS agar dapat berobat dengan data dokumen lengkap yang dimiliki pasien"
+        },
+        {
+          "title": "Laporan",
+          "isRangeDate": true,
+          "displayDateType": "MonthYear",
+          "from": "2016-03-01",
+          "to": "2016-07-01",
+          "description": "Migrasi aplikasi laporan desktop ke web Development"
+        },
+        {
+          "title": "E-Tiket Makan Gizi",
           "isRangeDate": false,
           "displayDateType": "MonthYear",
-          "from": "2017-02-01",
+          "from": "2015-11-01",
+          "to": "2016-02-01",
+          "description": "Mengembangkan modul aplikasi e-tiket makan gizi menggunakan Vb.Net. Modul ini terdiri dari: [ul][li]Master Jam[/li][li]Master Diet[/li][li]Master Takaran[/li][li]Transaksi[/li][li]Laporan[/li][/ul]"
+        },
+        {
+          "title": "Kegiatan Harian dan Inventaris Barang",
+          "isRangeDate": true,
+          "displayDateType": "MonthYear",
+          "from": "2014-11-01",
           "to": "",
-          "description": "Membuat summary medical checkup untuk pasien yang menjalani pemeriksaan di unit MCU"
+          "description": "Mengembangkan modul aplikasi laporan kegiatan per pegawai menggunakan Vb.Net. Modul ini terdiri dari: [ul][li]Master Kegiatan[/li][li]Master Barang[/li][li]Transaksi Kegiatan[/li][li]Transaksi Inventaris Barang[/li][li]Laporan Kegiatan[/li][li]Laporan Inventaris Barang[/li][/ul]"
         },
         {
-          "title": "Front Office Griya Husada (Rawat Jalan Eksekutif)",
+          "title": "Laporan",
           "isRangeDate": true,
           "displayDateType": "MonthYear",
-          "from": "2017-02-01",
-          "to": "2017-03-01",
-          "description": "Bersama tim mengembangkan modul front office untuk instalasi rawat jalan eksekutif yang bernama Griya Husada. Modul ini terdiri dari: [ul][li]Pendaftaran, reservasi dan antrian[/li][li]E-Medical Record atau rekam medis elektronik, adalah riwayat rekam medis pasien selama berobat di rumah sakit (umum, kontrol, poli mata, poli gigi, poli psikiatri)[/li][li]Rencana penunjang seperti radiologi dan laboratorium[/li][li]E-resep[/li][li]Ringkasan pasien[/li][li]dan lain-lain[/li][/ul]"
-        },
-        {
-          "title": "Farmasi",
-          "isRangeDate": true,
-          "displayDateType": "MonthYear",
-          "from": "2015-04-01",
-          "to": "2017-12-01",
-          "description": "Menjadi bagian dari tim yang mengembangkan modul back-office farmasi, yaitu supply chain obat-obatan. Untuk bagian reporting, beberapa laporan menggunakan Jasper Report Server. Beberapa modul yang saya kembangkan bersama tim:[ul][li]Perencanaan obat[/li][li]Perkiraan harga obat dari supplier[/li][li]Kontrak pengadaan obat, penerbitan surat pengadaan kontrak, pembelian langsung tanpa kontrak[/li][li]Permintaan [i]delivery order[/i] kepada vendor dan penerbitan surat permintaan barang[/li][li]Penerimaan obat, penerbitan surat berita acara serah terima barang dan tukar faktur serta verifikasi gudang penerima[/li][li]Distribusi obat dari gudang ke depo dan transfer obat antar depo[/li][li]Koreksi penerimaan barang[/li][li]Pencatatan obat expired, rusak dan retur ke distributor[/li][li]Penjualan obat dan retur obat dari pasien[/li][li]Laporan-laporan mutasi dan transaksi obat di farmasi[/li][li]dan lain-lain[/li][/ul]"
+          "from": "2014-06-01",
+          "to": "2014-08-01",
+          "description": "Membuat beberapa modul laporan menggunakan Vb.Net. Beberapa modul laporan yang saya kembangkan:[ul][li]Laporan Rawat Jalan[/li][li]Laporan Penunjang[/li][li]Laporan Data Sosial[/li][li]Laporan RL [i](Rekam Medis) [/i][/li][li]Laporan Akuntasi dan Anggaran[/li][li]Laporan Respone Time[/li][li]Laporan Sapa Dokter (Absensi)[/li][li]dan lain-lain[/li][/ul]"
         }
       ]
     },
