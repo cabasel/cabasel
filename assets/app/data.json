@@ -115,44 +115,108 @@
       "to": "",
       "workDone": [
         {
-          "title": "Reservasi Tempat Tidur Rawat Inap",
+          "title": "E-Kinerja",
+          "isRangeDate": true,
+          "displayDateType": "MonthYear",
+          "from": "2021-02-01",
+          "to": "",
+          "description": "Modul yang memfasilitasi satuan kerja untuk membuat IKU (Indikator Kinerja Utama). Modul ini terdiri dari: [ul][li]Master Satuan Kerja[/li][li]Master Satuan Realisasi[/li][li]Master Target Indikator[/li][li]Transaksi[/li][li]Dashboard Capaian Kinerja[/li][/ul]"
+        },
+        {
+          "title": "Reservasi Offline",
+          "isRangeDate": true,
+          "displayDateType": "MonthYear",
+          "from": "2020-12-01",
+          "to": "",
+          "description": "Modul yang Mengurangi resiko kerumunan saat pandemi dan gagal pendaftaran karena kurang dokumen lengkap untuk pasien bpjs"
+        }, 
+        {
+          "title": "Konfirmasi Pendaftaran dan Bukti Bayar",
+          "isRangeDate": true,
+          "displayDateType": "MonthYear",
+          "from": "2020-11-01",
+          "to": "2020-12-01",
+          "description": "Modul yang memfasilitasi satuan kerja terkait dalam mengecek bukti bayar reservasi online dan konfirmasi bahwa pasien sudah terlayani"
+        },
+        {
+          "title": "Upload Bukti Bayar Reservasi Online",
+          "isRangeDate": true,
+          "displayDateType": "MonthYear",
+          "from": "2020-10-01",
+          "to": "2020-11-01",
+          "description": "Modul yang memfasilitasi Pasien setelah melakukan pembayaran pendaftaran dengan mengUpload bukti bayar didalam aplikasi"
+        },
+        {
+          "title": "Reservasi Online (Telemedicine)",
           "isRangeDate": true,
           "displayDateType": "MonthYear",
           "from": "2020-08-01",
-          "to": "",
-          "description": "Modul yang memfasilitasi user untuk membuat reservasi tempat tidur untuk calon pasien rawat inap"
+          "to": "2020-10-01",
+          "description": "Modul yang memfasilitasi kepatuhan protocol kesehatan COVID 19, sehingga pendaftaran dan konsultasi dokter melalui Online (WhatsApp Video Call)."
         },
         {
-          "title": "Bed Monitoring",
+          "title": "Status Semua Jenis Antrian",
+          "isRangeDate": true,
+          "displayDateType": "MonthYear",
+          "from": "2020-07-01",
+          "to": "2020-08-01",
+          "description": "Modul yang memfasilitasi kepatuhan protocol kesehatan COVID 19 dengan tidak berkerumun saat menunggu antrian, sehingga pasien dapat menunggu dimanapun tanpa harus takut kelewat antrian karena pasien dapat melihat antrian di smartPhone dengan mengetik URL yang di dapat saat mengambil E-tiket Antrian"
+        },
+        {
+          "title": "Status Antrian Pasien",
+          "isRangeDate": true,
+          "displayDateType": "MonthYear",
+          "from": "2020-06-01",
+          "to": "2020-07-01",
+          "description": "Modul yang memfasilitasi kepatuhan protocol kesehatan COVID 19 dengan tidak berkerumun saat menunggu antrian, sehingga pasien dapat menunggu dimanapun tanpa harus takut kelewat antrian karena pasien dapat melihat antrian di smartPhone dengan scan QR Code yang di dapat saat mengambil E-tiket Antrian"
+        },
+        {
+          "title": "Buku Tamu",
+          "isRangeDate": true,
+          "displayDateType": "MonthYear",
+          "from": "2020-06-15",
+          "to": "2020-07-05",
+          "description": "Modul ini memfasilitasi keluarga pasien saat ingin ZOOM ke pasien COVID 19 dengan mengisi data diri"
+        },
+        {
+          "title": "Dashboard Pasien Covid 19",
+          "isRangeDate": true,
+          "displayDateType": "MonthYear",
+          "from": "2020-06-01",
+          "to": "2020-06-30",
+          "description": "Modul ini membantu memberikan informasi jumlah pasien COVID 19. Modul ini terdiri dari: [ul][li]Terkonfirmasi[/li][li]Pasien Dalam Pengawasan (PDP)[/li][li]Orang Dalam Pengawasan (ODP)[/li][li]Orang Tidak Gejala (OTG)[/li][/ul]"
+        },
+        {
+          "title": "Play Video",
           "isRangeDate": true,
           "displayDateType": "MonthYear",
           "from": "2020-05-01",
-          "to": "2020-06-01",
-          "description": "Dashboard yang dapat menampilkan data bed secara realtime dan interaktif"
+          "to": "2020-05-30",
+          "description": "Modul ini membantu memberikan informasi digital terkait Rumah Sakit Fatmawati"
         },
         {
-          "title": "Penerimaan Donasi COVID-19 & Dashboard Donatur",
+          "title": "Materi Edukasi",
           "isRangeDate": true,
           "displayDateType": "MonthYear",
-          "from": "2020-03-01",
-          "to": "2020-04-01",
-          "description": "Modul yang memfasilitasi input data penerimaan donasi COVID-19, dan menampilkan data donatur pada dashboard. Menampilkan laporan donasi harian dan rekapitulasi donasi."
+          "from": "2020-04-01",
+          "to": "2020-04-30",
+          "description": "Modul ini memfasilitasi saat Akreditasi Rumah Sakit Fatmawati"
         },
         {
-          "title": "Indikator Akreditasi",
+          "title": "Antrian",
           "isRangeDate": true,
           "displayDateType": "MonthYear",
-          "from": "2019-07-01",
-          "to": "2019-09-01",
-          "description": "Modul yang memfasilitasi akreditasi rumah sakit, output dari modul ini adalah dapat menampilkan capaian target akreditasi beberapa indikator dari masing-masing satuan kerja"
+          "from": "2020-02-01",
+          "to": "2020-12-01",
+          "description": "Modul ini membantu pasien dalam antri di setiap pendaftaran maupun penunjang lain nya. Modul Antrian ini terdiri dari beberapa form elektronik untuk masing-masing instalasi:[ul][li]Form E-tiket Antrian UTD - Form Panggilan Antrian UTD - Form Dashboard Antrian UTD[/li][li]Form E-tiket Antrian Radiologi - Form Panggilan Antrian Radiologi - Form Dashboard Antrian Radiologi[/li][li]Form E-tiket Antrian Laboratorium - Form Panggilan Antrian Laboratorium - Form Dashboard Antrian Laboratorium[/li][li]Form E-tiket Antrian Rawat Jalan - Form Panggilan Antrian Rawat Jalan - Form Dashboard Antrian Rawat Jalan[/li][li]Form E-tiket Antrian Farmasi - Form Panggilan Antrian Farmasi - Form Dashboard Antrian Farmasi[/li][li]Form E-tiket Antrian Rawat Jalan (Eksekutif) - Form Panggilan Antrian Rawat Jalan (Eksekutif) - Form Dashboard Antrian Rawat Jalan (Eksekutif)[/li][li]Form E-tiket Antrian Farmasi (Eksekutif) - Form Panggilan Antrian Farmasi (Eksekutif) - Form Dashboard Antrian Farmasi (Eksekutif)[/li][li]Form E-tiket Antrian Vaksin (Covid 19) - Form Panggilan Antrian Vaksin (Covid 19)[/li][/ul]"
         },
         {
-          "title": "Jadwal dan Reservasi Ruang Rapat",
+          "title": "Pembentukan E-Klaim",
           "isRangeDate": true,
           "displayDateType": "MonthYear",
-          "from": "2019-06-01",
-          "to": "2019-07-01",
-          "description": "Modul yang memfasilitasi pengaturan jadwal rapat, penggunaan ruangan rapat, permintaan ruang rapat oleh satuan kerja"
+          "from": "2019-11-01",
+          "to": "2020-01-31",
+          "description": "Modul ini Bridging dengan Aplikasi milik Kementerian Keesehatan dengan Full Web Service"
         },
         {
           "title": "E-Medical Record",
