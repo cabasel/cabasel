@@ -289,15 +289,7 @@
           "displayDateType": "MonthYear",
           "from": "2018-08-01",
           "to": "2018-12-01",
-          "description": "Mengembangkan sistem "
-        },
-        {
-          "title": "Sistem Infromasi RSIA Bunda Citra Arafiq",
-          "isRangeDate": true,
-          "displayDateType": "MonthYear",
-          "from": "2017-01-01",
-          "to": "2017-05-01",
-          "description": "Bagian dari tim yang mengembangkan sistem informasi RSIA Bunda Citra Arafiq, yang terdiri dari modul:[ul][li]Back-office (supply chain farmasi, accounting, tarif pelayanan medis, SDM)[/li][li]Front-office (registrasi pasien, kamar rawat inap, e-resep, rekam medis, billing)[/li][/ul]"
+          "description": "Mengembangkan sistem laporan"
         }
       ]
     }
@@ -351,20 +343,20 @@
   ],
   "education": [
     {
-      "title": "Universitas Indonesia",
-      "description": "Teknik Elektro, mengambil konsentrasi elektronika<br>Tugas Akhir: [i]Sistem Penjejakan dan Keamanan Pada kendaraan Bermotor Menggunakan SMS Berbasis Mikrokontroller AtMega162[/i]",
+      "title": "Universitas Budi Luhur",
+      "description": "Sistem Informasi",
       "isRangeDate": true,
       "displayDateType": "MonthYear",
-      "from": "2006-09-01",
-      "to": "2013-01-01"
+      "from": "2008-09-01",
+      "to": "2014-01-01"
     },
     {
-      "title": "SMA Negeri 8 Jakarta",
+      "title": "SMA Katika Jakarta",
       "description": "Senior High School",
       "isRangeDate": true,
       "displayDateType": "Year",
-      "from": "2003-07-01",
-      "to": "2006-06-01"
+      "from": "2005-07-01",
+      "to": "2008-06-01"
     }
   ]
 }
