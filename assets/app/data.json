@@ -271,27 +271,6 @@
           "description": "Membuat beberapa modul laporan menggunakan Vb.Net. Beberapa modul laporan yang saya kembangkan:[ul][li]Laporan Rawat Jalan[/li][li]Laporan Penunjang[/li][li]Laporan Data Sosial[/li][li]Laporan RL [i](Rekam Medis) [/i][/li][li]Laporan Akuntasi dan Anggaran[/li][li]Laporan Respone Time[/li][li]Laporan Sapa Dokter (Absensi)[/li][li]dan lain-lain[/li][/ul]"
         }
       ]
-    },
-    {
-      "officeName": "Freelance Web App Developer",
-      "location": "Indonesia",
-      "image": "freelancer.jpg",
-      "title": "Self Employed",
-      "description": "Mengembangkan aplikasi dari berbagai project",
-      "displayDateType": "MonthYear",
-      "isRangeDate": true,
-      "from": "2017-01-01",
-      "to": "",
-      "workDone": [
-        {
-          "title": "Sistem Pelaporan Akuntansi",
-          "isRangeDate": true,
-          "displayDateType": "MonthYear",
-          "from": "2018-08-01",
-          "to": "2018-12-01",
-          "description": "Mengembangkan sistem Pelaporan"
-        }
-      ]
     }
   ],
   "tools": [
