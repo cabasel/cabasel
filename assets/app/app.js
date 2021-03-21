@@ -30,7 +30,7 @@ document.onreadystatechange = () => {
     skillContainer = document.getElementById('skill-list');
     toolsContainer = document.getElementById('tools');
     basicInfoContainer = document.getElementById('basic-info');
-    trainingCertificationContainer = document.getElementById('training-certification-list');
+    // trainingCertificationContainer = document.getElementById('training-certification-list');
     educationContainer = document.getElementById('education');
     profilePhoto = document.getElementById('profile-photo');
     qrCodeCanvas = document.getElementById('qr-code'),
