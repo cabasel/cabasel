@@ -288,12 +288,12 @@
   ],
   "education": [
     {
-      "title": "Universitas Budi Luhur ",
-      "description": "Sistem informasi",
+      "title": "Universitas Budi Luhur",
+      "description": "Sistem Informasi",
       "isRangeDate": true,
       "displayDateType": "MonthYear",
-      "from": "2008-09-01",
-      "to": "2014-02-06"
+      "from": "2006-09-01",
+      "to": "2013-01-01"
     },
     {
       "title": "SMA Kartika Jakarta",
