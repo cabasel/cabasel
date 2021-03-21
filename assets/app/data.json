@@ -307,40 +307,6 @@
     "Microsoft Visual Studio 2008",
     "Balsamiq Mockup"
   ],
-  "trainingAndCertification": [
-    {
-      "title": "Pelatihan Android Dasar",
-      "description": "Dikeluarkan oleh IMA Studio",
-      "isRangeDate": true,
-      "displayDateType": "MonthYear",
-      "from": "2019-07-01",
-      "to": "2019-08-01"
-    },
-    {
-      "title": "Pelatihan Mikrotik RouterOS Training for Basic - Essentials (MTCNA)",
-      "description": "Dikeluarkan oleh PT Link Net",
-      "isRangeDate": false,
-      "displayDateType": "MonthYear",
-      "from": "2017-12-01",
-      "to": ""
-    },
-    {
-      "title": "PHP & MySQL Advanced",
-      "description": "Dikeluarkan oleh Brainmatics Cipta Informatika",
-      "isRangeDate": false,
-      "displayDateType": "MonthYear",
-      "from": "2016-04-01",
-      "to": ""
-    },
-    {
-      "title": "PHP & MySQL Basic",
-      "description": "Dikeluarkan oleh Brainmatics Cipta Informatika",
-      "isRangeDate": false,
-      "displayDateType": "MonthYear",
-      "from": "2015-07-01",
-      "to": ""
-    }
-  ],
   "education": [
     {
       "title": "Universitas Budi Luhur",
