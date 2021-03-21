@@ -271,6 +271,35 @@
           "description": "Membuat beberapa modul laporan menggunakan Vb.Net. Beberapa modul laporan yang saya kembangkan:[ul][li]Laporan Rawat Jalan[/li][li]Laporan Penunjang[/li][li]Laporan Data Sosial[/li][li]Laporan RL [i](Rekam Medis) [/i][/li][li]Laporan Akuntasi dan Anggaran[/li][li]Laporan Respone Time[/li][li]Laporan Sapa Dokter (Absensi)[/li][li]dan lain-lain[/li][/ul]"
         }
       ]
+    },
+    {
+      "officeName": "Freelance Web App Developer",
+      "location": "Indonesia",
+      "image": "freelancer.jpg",
+      "title": "Self Employed",
+      "description": "Mengembangkan aplikasi dari berbagai project",
+      "displayDateType": "MonthYear",
+      "isRangeDate": true,
+      "from": "2017-01-01",
+      "to": "",
+      "workDone": [
+        {
+          "title": "Sistem Pelaporan Akuntansi",
+          "isRangeDate": true,
+          "displayDateType": "MonthYear",
+          "from": "2018-08-01",
+          "to": "2018-12-01",
+          "description": "Mengembangkan sistem "
+        },
+        {
+          "title": "Sistem Infromasi RSIA Bunda Citra Arafiq",
+          "isRangeDate": true,
+          "displayDateType": "MonthYear",
+          "from": "2017-01-01",
+          "to": "2017-05-01",
+          "description": "Bagian dari tim yang mengembangkan sistem informasi RSIA Bunda Citra Arafiq, yang terdiri dari modul:[ul][li]Back-office (supply chain farmasi, accounting, tarif pelayanan medis, SDM)[/li][li]Front-office (registrasi pasien, kamar rawat inap, e-resep, rekam medis, billing)[/li][/ul]"
+        }
+      ]
     }
   ],
   "tools": [
@@ -286,22 +315,56 @@
     "Microsoft Visual Studio 2008",
     "Balsamiq Mockup"
   ],
+  "trainingAndCertification": [
+    {
+      "title": "Pelatihan Android Dasar",
+      "description": "Dikeluarkan oleh IMA Studio",
+      "isRangeDate": true,
+      "displayDateType": "MonthYear",
+      "from": "2019-07-01",
+      "to": "2019-08-01"
+    },
+    {
+      "title": "Pelatihan Mikrotik RouterOS Training for Basic - Essentials (MTCNA)",
+      "description": "Dikeluarkan oleh PT Link Net",
+      "isRangeDate": false,
+      "displayDateType": "MonthYear",
+      "from": "2017-12-01",
+      "to": ""
+    },
+    {
+      "title": "PHP & MySQL Advanced",
+      "description": "Dikeluarkan oleh Brainmatics Cipta Informatika",
+      "isRangeDate": false,
+      "displayDateType": "MonthYear",
+      "from": "2016-04-01",
+      "to": ""
+    },
+    {
+      "title": "PHP & MySQL Basic",
+      "description": "Dikeluarkan oleh Brainmatics Cipta Informatika",
+      "isRangeDate": false,
+      "displayDateType": "MonthYear",
+      "from": "2015-07-01",
+      "to": ""
+    }
+  ],
   "education": [
     {
-      "title": "Universitas Budi Luhur",
-      "description": "Sistem Informasi",
+      "title": "Universitas Indonesia",
+      "description": "Teknik Elektro, mengambil konsentrasi elektronika<br>Tugas Akhir: [i]Sistem Penjejakan dan Keamanan Pada kendaraan Bermotor Menggunakan SMS Berbasis Mikrokontroller AtMega162[/i]",
       "isRangeDate": true,
       "displayDateType": "MonthYear",
       "from": "2006-09-01",
       "to": "2013-01-01"
     },
     {
-      "title": "SMA Kartika Jakarta",
+      "title": "SMA Negeri 8 Jakarta",
       "description": "Senior High School",
       "isRangeDate": true,
       "displayDateType": "Year",
-      "from": "2005-07-01",
-      "to": "2008-06-01"
+      "from": "2003-07-01",
+      "to": "2006-06-01"
     }
   ]
 }
