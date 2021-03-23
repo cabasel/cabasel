@@ -14,7 +14,7 @@ let xhr,
     skillContainer,
     toolsContainer,
     basicInfoContainer,
-    // trainingCertificationContainer,
+    trainingCertificationContainer,
     educationContainer,
     profilePhoto,
     qrCodeContainer,
@@ -30,7 +30,7 @@ document.onreadystatechange = () => {
     skillContainer = document.getElementById('skill-list');
     toolsContainer = document.getElementById('tools');
     basicInfoContainer = document.getElementById('basic-info');
-    // trainingCertificationContainer = document.getElementById('training-certification-list');
+    trainingCertificationContainer = document.getElementById('training-certification-list');
     educationContainer = document.getElementById('education');
     profilePhoto = document.getElementById('profile-photo');
     qrCodeCanvas = document.getElementById('qr-code'),
@@ -120,27 +120,27 @@ const fetchData = () => {
             $(toolsContainer).append(stringBuilderArray.join(''));
 
             /* Training and Certification */
-            // stringBuilderArray = [];
-            // $(trainingCertificationContainer).html('');
-            // response.trainingAndCertification.forEach((item, index) => {
-            //     let dateFormat = dateDisplayMap[item.displayDateType];
-            //     stringBuilderArray.push(
-            //         '<div class="media">' +
-            //         '    <div class="media-body">' +
-            //         '        <div class="row">' +
-            //         '            <div class="col-sm-8">' +
-            //         '                <h5 class="mt-0">' + item.title + '</h5>' +
-            //         '                <p>' + item.description + '</p>' +
-            //         '            </div>' +
-            //         '            <div class="col-sm-4">' +
-            //         '                <p class="lead text-right">' + item.from.utility().convertDatetime(dateFormat) + (item.isRangeDate ? (item.to.length ? (' - ' + item.to.toString().utility().convertDatetime(dateFormat)) : ' - Sekarang') : '') + '</p>' +
-            //         '            </div>' +
-            //         '        </div>' +
-            //         '    </div>' +
-            //         '</div>'
-            //     );
-            // });
-            // $(trainingCertificationContainer).append(stringBuilderArray.join(''));
+            stringBuilderArray = [];
+            $(trainingCertificationContainer).html('');
+            response.trainingAndCertification.forEach((item, index) => {
+                let dateFormat = dateDisplayMap[item.displayDateType];
+                stringBuilderArray.push(
+                    '<div class="media">' +
+                    '    <div class="media-body">' +
+                    '        <div class="row">' +
+                    '            <div class="col-sm-8">' +
+                    '                <h5 class="mt-0">' + item.title + '</h5>' +
+                    '                <p>' + item.description + '</p>' +
+                    '            </div>' +
+                    '            <div class="col-sm-4">' +
+                    '                <p class="lead text-right">' + item.from.utility().convertDatetime(dateFormat) + (item.isRangeDate ? (item.to.length ? (' - ' + item.to.toString().utility().convertDatetime(dateFormat)) : ' - Sekarang') : '') + '</p>' +
+                    '            </div>' +
+                    '        </div>' +
+                    '    </div>' +
+                    '</div>'
+                );
+            });
+            $(trainingCertificationContainer).append(stringBuilderArray.join(''));
 
             /* Education */
             stringBuilderArray = [];

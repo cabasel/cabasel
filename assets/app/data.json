@@ -55,11 +55,11 @@
   "skills": [
     {
       "name":  "PHP",
-      "value": 70
+      "value": 75
     },
     {
       "name":  "CodeIgniter",
-      "value": 60
+      "value": 65
     },
     {
       "name":  "MVC Concept",
@@ -67,7 +67,7 @@
     },
     {
       "name":  "jQuery",
-      "value": 55
+      "value": 60
     },
     {
       "name":  "MySQL / MariaDB",
@@ -151,7 +151,7 @@
           "description": "Modul yang memfasilitasi kepatuhan protocol kesehatan COVID 19, sehingga pendaftaran dan konsultasi dokter melalui Online (WhatsApp Video Call)."
         },
         {
-          "title": "Status Semua Jenis Antrian",
+          "title": "Dashboard Status Antrian",
           "isRangeDate": true,
           "displayDateType": "MonthYear",
           "from": "2020-07-01",
@@ -287,9 +287,25 @@
           "title": "Sistem Pelaporan Akuntansi",
           "isRangeDate": true,
           "displayDateType": "MonthYear",
-          "from": "2018-08-01",
-          "to": "2018-12-01",
+          "from": "2017-08-01",
+          "to": "2017-12-01",
           "description": "Mengembangkan sistem laporan"
+        },
+        {
+          "title": "Sistem Informasi Penjualan ATK",
+          "isRangeDate": true,
+          "displayDateType": "MonthYear",
+          "from": "2018-01-01",
+          "to": "2018-05-01",
+          "description": "Bagian dari tim yang mengembangkan sistem informasi Penjualan ATK, yang terdiri dari modul:[ul][li]Back-office (Inventory Barang, Laporan Penjualan)[/li][li]Front-office (Master Barang, Master Layanan, Master Carabayar, Penjualan, billing)[/li][/ul]"
+        },
+        {
+          "title": "Sistem Informasi Penjualan Coffee & Bread",
+          "isRangeDate": true,
+          "displayDateType": "MonthYear",
+          "from": "2019-05-01",
+          "to": "2019-10-01",
+          "description": "Bagian dari tim yang mengembangkan sistem informasi Penjualan Coffee & Bread, yang terdiri dari modul:[ul][li]Back-office (Inventory Barang, Laporan Penjualan)[/li][li]Front-office (Master Barang, Master Jenis Barang, Master Carabayar, Master Satuan Penjualan, billing)[/li][/ul]"
         }
       ]
     }
@@ -306,6 +322,48 @@
     "WinSCP",
     "Microsoft Visual Studio 2008",
     "Balsamiq Mockup"
+  ],
+  "trainingAndCertification": [
+    {
+      "title": "Pelatihan Android Dasar",
+      "description": "Dikeluarkan oleh IMA Studio",
+      "isRangeDate": true,
+      "displayDateType": "MonthYear",
+      "from": "2019-07-01",
+      "to": "2019-08-01"
+    },
+    {
+      "title": "Pelatihan Mikrotik RouterOS Training for Basic - Essentials (MTCNA)",
+      "description": "Dikeluarkan oleh PT Link Net",
+      "isRangeDate": false,
+      "displayDateType": "MonthYear",
+      "from": "2017-12-01",
+      "to": ""
+    },
+    {
+      "title": "PHP & MySQL Advanced",
+      "description": "Dikeluarkan oleh Brainmatics Cipta Informatika",
+      "isRangeDate": false,
+      "displayDateType": "MonthYear",
+      "from": "2016-04-01",
+      "to": ""
+    },
+    {
+      "title": "Microsoft Excel 2013",
+      "description": "Dikeluarkan oleh Brainmatics Cipta Informatika",
+      "isRangeDate": false,
+      "displayDateType": "MonthYear",
+      "from": "2016-05-14",
+      "to": ""
+    },  
+    {
+      "title": "PHP & MySQL Fundamental & PHP Codeigniter Framework",
+      "description": "Dikeluarkan oleh Brainmatics Cipta Informatika",
+      "isRangeDate": false,
+      "displayDateType": "MonthYear",
+      "from": "2015-10-24",
+      "to": ""
+    }
   ],
   "education": [
     {
