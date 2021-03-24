@@ -273,7 +273,7 @@
       ]
     },
     {
-      "officeName": "Freelance Web App Developer",
+      "officeName": "Freelance Web & Dekstop App Developer",
       "location": "Indonesia",
       "image": "freelancer.jpg",
       "title": "Self Employed",
@@ -289,10 +289,10 @@
           "displayDateType": "MonthYear",
           "from": "2017-08-01",
           "to": "2017-12-01",
-          "description": "Mengembangkan sistem laporan"
+          "description": "Mengembangkan sistem laporan dengan menggunakan Vb.Net"
         },
         {
-          "title": "Sistem Informasi Penjualan ATK",
+          "title": "Sistem Informasi Penjualan ALMA Alat Tulis Kantor & Foto Copy",
           "isRangeDate": true,
           "displayDateType": "MonthYear",
           "from": "2018-01-01",
@@ -300,7 +300,7 @@
           "description": "Bagian dari tim yang mengembangkan sistem informasi Penjualan ATK, yang terdiri dari modul:[ul][li]Back-office (Inventory Barang, Laporan Penjualan)[/li][li]Front-office (Master Barang, Master Layanan, Master Carabayar, Penjualan, billing)[/li][/ul]"
         },
         {
-          "title": "Sistem Informasi Penjualan Coffee & Bread",
+          "title": "Sistem Informasi Penjualan Rosseta Coffee & Bread",
           "isRangeDate": true,
           "displayDateType": "MonthYear",
           "from": "2019-05-01",
