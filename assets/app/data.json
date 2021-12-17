@@ -319,8 +319,8 @@
           "title": "Sistem Informasi Klaim Unit Pelayanan Jaminan Kesehatan Jakarta Dinas Kesehatan Pemprov DKI Jakarta",
           "isRangeDate": true,
           "displayDateType": "MonthYear",
-          "from": "2020-02-01",
-          "to": "2020-05-15",
+          "from": "2021-05-15",
+          "to": "2021-12-15",
           "description": "Bagian dari tim yang mengembangkan sistem informasi Klaim, yang terdiri dari modul:[ul][li]Back-end[/li][li]Front-end[/li][/ul]"
         }
       ]
