@@ -306,7 +306,7 @@
           "from": "2019-05-01",
           "to": "2019-10-01",
           "description": "Bagian dari tim yang mengembangkan sistem informasi Penjualan Coffee & Bread, yang terdiri dari modul:[ul][li]Back-office (Inventory Barang, Laporan Penjualan)[/li][li]Front-office (Master Barang, Master Jenis Barang, Master Carabayar, Master Satuan Penjualan, billing)[/li][/ul]"
-        }
+        },
         {
           "title": "Sistem Informasi Permohonan Pelayanan PBB Kabupaten Tangerang UPT-4",
           "isRangeDate": true,
@@ -314,7 +314,7 @@
           "from": "2020-02-01",
           "to": "2020-05-15",
           "description": "Bagian dari tim yang mengembangkan sistem informasi Permohonan Pelayanan PBB, yang terdiri dari modul:[ul][li]Back-office[/li][li]Front-office[/li][/ul]"
-        }
+        },
         {
           "title": "Sistem Informasi Klaim Unit Pelayanan Jaminan Kesehatan Jakarta Dinas Kesehatan Pemprov DKI Jakarta",
           "isRangeDate": true,
