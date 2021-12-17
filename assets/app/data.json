@@ -54,48 +54,48 @@
   "about": "Software developer yang memiliki passion, dengan pengalaman lebih dari 5 tahun di bidang [i]web development dan dekstop[/i] di industri pelayanan medis. Memiliki pengalaman mengembangkan aplikasi rumah sakit dengan jumlah modul yang besar dan mengetahui seluk beluk proses bisnis rumah sakit yang kompleks, baik [i]front-office[/i] maupun [i]back-office[/i]. Seorang praktisi teknis yang antusias, pekerja keras, teliti, suka mempelajari hal baru and berusaha mengikuti teknik dan desain yang bagus di dalam industri software development, suka mencari solusi yang lebih bagus dan efisien, suka berbagi ilmu dan menimba ilmu dari orang lain. Selalu menekankan pada pekerjaan yang terstruktur dengan rapi dan bersih.",
   "skills": [
     {
-      "name":  "PHP",
+      "name": "PHP",
       "value": 75
     },
     {
-      "name":  "CodeIgniter",
+      "name": "CodeIgniter",
       "value": 65
     },
     {
-      "name":  "MVC Concept",
+      "name": "MVC Concept",
       "value": 60
     },
     {
-      "name":  "jQuery",
+      "name": "jQuery",
       "value": 60
     },
     {
-      "name":  "MySQL / MariaDB",
+      "name": "MySQL / MariaDB",
       "value": 65
     },
     {
-      "name":  "JavaScript",
+      "name": "JavaScript",
       "value": 55
     },
     {
-      "name":  "RESTful API Concept",
+      "name": "RESTful API Concept",
       "value": 50
     },
     {
-      "name":  "HTML & CSS",
+      "name": "HTML & CSS",
       "value": 50
     },
     {
-      "name":  "Git",
+      "name": "Git",
       "value": 40
     },
     {
-      "name":   "Vb.Net",
-      "value":  40
+      "name": "Vb.Net",
+      "value": 40
     },
     {
-      "name":   "Power Builder",
-      "value":  30
+      "name": "Power Builder",
+      "value": 30
     }
   ],
   "experiences": [
@@ -125,7 +125,7 @@
           "from": "2020-12-01",
           "to": "",
           "description": "Modul yang Mengurangi resiko kerumunan saat pandemi dan gagal pendaftaran karena kurang dokumen lengkap untuk pasien bpjs"
-        }, 
+        },
         {
           "title": "Konfirmasi Pendaftaran dan Bukti Bayar",
           "isRangeDate": true,
@@ -307,6 +307,22 @@
           "to": "2019-10-01",
           "description": "Bagian dari tim yang mengembangkan sistem informasi Penjualan Coffee & Bread, yang terdiri dari modul:[ul][li]Back-office (Inventory Barang, Laporan Penjualan)[/li][li]Front-office (Master Barang, Master Jenis Barang, Master Carabayar, Master Satuan Penjualan, billing)[/li][/ul]"
         }
+        {
+          "title": "Sistem Informasi Permohonan Pelayanan PBB Kabupaten Tangerang UPT-4",
+          "isRangeDate": true,
+          "displayDateType": "MonthYear",
+          "from": "2020-02-01",
+          "to": "2020-05-15",
+          "description": "Bagian dari tim yang mengembangkan sistem informasi Permohonan Pelayanan PBB, yang terdiri dari modul:[ul][li]Back-office[/li][li]Front-office[/li][/ul]"
+        }
+        {
+          "title": "Sistem Informasi Klaim Unit Pelayanan Jaminan Kesehatan Jakarta Dinas Kesehatan Pemprov DKI Jakarta",
+          "isRangeDate": true,
+          "displayDateType": "MonthYear",
+          "from": "2020-02-01",
+          "to": "2020-05-15",
+          "description": "Bagian dari tim yang mengembangkan sistem informasi Klaim, yang terdiri dari modul:[ul][li]Back-end[/li][li]Front-end[/li][/ul]"
+        }
       ]
     }
   ],
@@ -316,6 +332,7 @@
     "GitHub, GitLab",
     "MySQL Workbench",
     "DBeaver",
+    "Navicat",
     "Notepad++, Sublime Text",
     "Visual Studio Code",
     "Postman",
@@ -355,7 +372,7 @@
       "displayDateType": "MonthYear",
       "from": "2016-05-14",
       "to": ""
-    },  
+    },
     {
       "title": "PHP & MySQL Fundamental & PHP Codeigniter Framework",
       "description": "Dikeluarkan oleh Brainmatics Cipta Informatika",
