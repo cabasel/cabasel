@@ -123,35 +123,51 @@
             "to": "",
             "workDone": [
                 {
+                    "title": "Reservasi UTD",
+                    "isRangeDate": true,
+                    "displayDateType": "MonthYear",
+                    "from": "2022-06-01",
+                    "to": "2022-06-15",
+                    "description": "Pembuatan modul Back-End terkait reservasi online UTD"
+                },
+                {
+                    "title": "Reservasi Vaksin",
+                    "isRangeDate": true,
+                    "displayDateType": "MonthYear",
+                    "from": "2022-06-01",
+                    "to": "2022-06-15",
+                    "description": "Pembuatan modul Back-End terkait reservasi online vaksin"
+                },
+                {
                     "title": "Reservasi",
                     "isRangeDate": true,
                     "displayDateType": "MonthYear",
-                    "from": "",
-                    "to": "",
+                    "from": "2022-04-01",
+                    "to": "2022-06-15",
                     "description": "Pembuatan modul Back-End terkait reservasi online pasien, terbridging dengan sisten BPJS"
                 },
                 {
                     "title": "Stok Opname Farmasi",
                     "isRangeDate": true,
                     "displayDateType": "MonthYear",
-                    "from": "",
-                    "to": "",
+                    "from": "2023-07-15",
+                    "to": "2023-08-25",
                     "description": "Modul yang memfasilitasi terkait input stok opname"
                 },
                 {
                     "title": "Katalog Farmasi",
                     "isRangeDate": true,
                     "displayDateType": "MonthYear",
-                    "from": "",
-                    "to": "",
+                    "from": "2023-04-01",
+                    "to": "2023-07-01",
                     "description": "Modul yang memfasilitasi terkait input data master katalog farmasi dan bridging dengan katalog obat satu sehat"
                 },
                 {
                     "title": "Notifikasi WhatsApp",
                     "isRangeDate": true,
                     "displayDateType": "MonthYear",
-                    "from": "",
-                    "to": "",
+                    "from": "2022-03-15",
+                    "to": "2022-03-20",
                     "description": "Modul yang memfasilitasi pasien untuk menerima notifikasi terkait kode lupa password "
                 },
                 {
