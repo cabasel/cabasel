@@ -1,403 +1,447 @@
 {
-  "fullName": "Candra Aknes Nugroho",
-  "title": "Full Stack Developer",
-  "photo": "profile-photo.jpg",
-  "basicInfo": [
-    {
-      "key": "dateOfBirth",
-      "name": "Tanggal Lahir",
-      "value": "22 Agustus 1990"
-    },
-    {
-      "key": "religion",
-      "name": "Agama",
-      "value": "Islam"
-    },
-    {
-      "key": "maritalStatus",
-      "name": "Status",
-      "value": "Menikah"
-    },
-    {
-      "key": "address",
-      "name": "Domisili",
-      "value": "Komplek Karang Tengah Permai, Jl. Yudistira Blok TM No 12 A, Tangerang, Karang tengah"
-    }
-  ],
-  "contact": [
-    {
-      "type": "phone",
-      "icon": "phone",
-      "value": "+62 856 91 777 022"
-    },
-    {
-      "type": "email",
-      "icon": "envelope-o",
-      "value": "chandraaknesnugroho@gmail.com"
-    },
-    {
-      "type": "gitlab",
-      "icon": "gitlab",
-      "value": "gitlab.com/cabasel"
-    },
-    {
-      "type": "github",
-      "icon": "github",
-      "value": "github.com/cabasel"
-    },
-    {
-      "type": "homepage",
-      "icon": "link",
-      "value": "cabasel.github.io/cabasel"
-    }
-  ],
-  "about": "Software developer yang memiliki passion, dengan pengalaman lebih dari 5 tahun di bidang [i]web development dan dekstop[/i] di industri pelayanan medis. Memiliki pengalaman mengembangkan aplikasi rumah sakit dengan jumlah modul yang besar dan mengetahui seluk beluk proses bisnis rumah sakit yang kompleks, baik [i]front-office[/i] maupun [i]back-office[/i]. Seorang praktisi teknis yang antusias, pekerja keras, teliti, suka mempelajari hal baru and berusaha mengikuti teknik dan desain yang bagus di dalam industri software development, suka mencari solusi yang lebih bagus dan efisien, suka berbagi ilmu dan menimba ilmu dari orang lain. Selalu menekankan pada pekerjaan yang terstruktur dengan rapi dan bersih.",
-  "skills": [
-    {
-      "name": "PHP",
-      "value": 75
-    },
-    {
-      "name": "CodeIgniter",
-      "value": 65
-    },
-    {
-      "name": "MVC Concept",
-      "value": 60
-    },
-    {
-      "name": "jQuery",
-      "value": 60
-    },
-    {
-      "name": "MySQL / MariaDB",
-      "value": 65
-    },
-    {
-      "name": "JavaScript",
-      "value": 55
-    },
-    {
-      "name": "RESTful API Concept",
-      "value": 50
-    },
-    {
-      "name": "HTML & CSS",
-      "value": 50
-    },
-    {
-      "name": "Git",
-      "value": 40
-    },
-    {
-      "name": "Vb.Net",
-      "value": 40
-    },
-    {
-      "name": "Power Builder",
-      "value": 30
-    }
-  ],
-  "experiences": [
-    {
-      "officeName": "Rumah Sakit Umum Pusat Fatmawati",
-      "location": "Jakarta Selatan",
-      "image": "rsf.png",
-      "title": "Programmer",
-      "description": "Pekerjaan utama saya di RSUP Fatmawati adalah sebagai software developer dan analis sistem. Terkadang saya mendapat pekerjaan menginstall dan mengkonfigurasi aplikasi di server, mengumpulkan requirement dari user untuk pembuatan aplikasi, membuat mockup aplikasi, merancang database, bekerja dengan bagian akuntansi dalam pembuatan laporan logistik, sosialisasi penggunaan aplikasi kepada user dan pekerjaan lainnya.\nPada posisi ini, saya dan tim mengembangkan sistem informasi rumah sakit yang bernama Fatmahost, sebuah aplikasi monolitik yang terdiri dari banyak modul yang menunjang proses bisnis rumah sakit. Saya terlibat dalam pengembangan back-end dan front-end. Berikut ini adalah project / modul aplikasi yang saya kembangkan:",
-      "displayDateType": "MonthYear",
-      "isRangeDate": true,
-      "from": "2014-06-01",
-      "to": "",
-      "workDone": [
+    "fullName": "Candra Aknes Nugroho",
+    "title": "Full Stack Developer",
+    "photo": "profile-photo.jpg",
+    "basicInfo": [
         {
-          "title": "E-Kinerja",
-          "isRangeDate": true,
-          "displayDateType": "MonthYear",
-          "from": "2021-02-01",
-          "to": "",
-          "description": "Modul yang memfasilitasi satuan kerja untuk membuat IKU (Indikator Kinerja Utama). Modul ini terdiri dari: [ul][li]Master Satuan Kerja[/li][li]Master Satuan Realisasi[/li][li]Master Target Indikator[/li][li]Transaksi[/li][li]Dashboard Capaian Kinerja[/li][/ul]"
+            "key": "dateOfBirth",
+            "name": "Tanggal Lahir",
+            "value": "22 Agustus 1990"
         },
         {
-          "title": "Reservasi Offline",
-          "isRangeDate": true,
-          "displayDateType": "MonthYear",
-          "from": "2020-12-01",
-          "to": "",
-          "description": "Modul yang Mengurangi resiko kerumunan saat pandemi dan gagal pendaftaran karena kurang dokumen lengkap untuk pasien bpjs"
+            "key": "religion",
+            "name": "Agama",
+            "value": "Islam"
         },
         {
-          "title": "Konfirmasi Pendaftaran dan Bukti Bayar",
-          "isRangeDate": true,
-          "displayDateType": "MonthYear",
-          "from": "2020-11-01",
-          "to": "2020-12-01",
-          "description": "Modul yang memfasilitasi satuan kerja terkait dalam mengecek bukti bayar reservasi online dan konfirmasi bahwa pasien sudah terlayani"
+            "key": "maritalStatus",
+            "name": "Status",
+            "value": "Menikah"
         },
         {
-          "title": "Upload Bukti Bayar Reservasi Online",
-          "isRangeDate": true,
-          "displayDateType": "MonthYear",
-          "from": "2020-10-01",
-          "to": "2020-11-01",
-          "description": "Modul yang memfasilitasi Pasien setelah melakukan pembayaran pendaftaran dengan mengUpload bukti bayar didalam aplikasi"
-        },
-        {
-          "title": "Reservasi Online (Telemedicine)",
-          "isRangeDate": true,
-          "displayDateType": "MonthYear",
-          "from": "2020-08-01",
-          "to": "2020-10-01",
-          "description": "Modul yang memfasilitasi kepatuhan protocol kesehatan COVID 19, sehingga pendaftaran dan konsultasi dokter melalui Online (WhatsApp Video Call)."
-        },
-        {
-          "title": "Dashboard Status Antrian",
-          "isRangeDate": true,
-          "displayDateType": "MonthYear",
-          "from": "2020-07-01",
-          "to": "2020-08-01",
-          "description": "Modul yang memfasilitasi kepatuhan protocol kesehatan COVID 19 dengan tidak berkerumun saat menunggu antrian, sehingga pasien dapat menunggu dimanapun tanpa harus takut kelewat antrian karena pasien dapat melihat antrian di smartPhone dengan mengetik URL yang di dapat saat mengambil E-tiket Antrian"
-        },
-        {
-          "title": "Status Antrian Pasien",
-          "isRangeDate": true,
-          "displayDateType": "MonthYear",
-          "from": "2020-06-01",
-          "to": "2020-07-01",
-          "description": "Modul yang memfasilitasi kepatuhan protocol kesehatan COVID 19 dengan tidak berkerumun saat menunggu antrian, sehingga pasien dapat menunggu dimanapun tanpa harus takut kelewat antrian karena pasien dapat melihat antrian di smartPhone dengan scan QR Code yang di dapat saat mengambil E-tiket Antrian"
-        },
-        {
-          "title": "Buku Tamu",
-          "isRangeDate": true,
-          "displayDateType": "MonthYear",
-          "from": "2020-06-15",
-          "to": "2020-07-05",
-          "description": "Modul ini memfasilitasi keluarga pasien saat ingin ZOOM ke pasien COVID 19 dengan mengisi data diri"
-        },
-        {
-          "title": "Dashboard Pasien Covid 19",
-          "isRangeDate": true,
-          "displayDateType": "MonthYear",
-          "from": "2020-06-01",
-          "to": "2020-06-30",
-          "description": "Modul ini membantu memberikan informasi jumlah pasien COVID 19. Modul ini terdiri dari: [ul][li]Terkonfirmasi[/li][li]Pasien Dalam Pengawasan (PDP)[/li][li]Orang Dalam Pengawasan (ODP)[/li][li]Orang Tidak Gejala (OTG)[/li][/ul]"
-        },
-        {
-          "title": "Play Video",
-          "isRangeDate": true,
-          "displayDateType": "MonthYear",
-          "from": "2020-05-01",
-          "to": "2020-05-30",
-          "description": "Modul ini membantu memberikan informasi digital terkait Rumah Sakit Fatmawati"
-        },
-        {
-          "title": "Materi Edukasi",
-          "isRangeDate": true,
-          "displayDateType": "MonthYear",
-          "from": "2020-04-01",
-          "to": "2020-04-30",
-          "description": "Modul ini memfasilitasi saat Akreditasi Rumah Sakit Fatmawati"
-        },
-        {
-          "title": "Antrian",
-          "isRangeDate": true,
-          "displayDateType": "MonthYear",
-          "from": "2020-02-01",
-          "to": "2020-12-01",
-          "description": "Modul ini membantu pasien dalam antri di setiap pendaftaran maupun penunjang lain nya. Modul Antrian ini terdiri dari beberapa form elektronik untuk masing-masing instalasi:[ul][li]Form E-tiket Antrian UTD - Form Panggilan Antrian UTD - Form Dashboard Antrian UTD[/li][li]Form E-tiket Antrian Radiologi - Form Panggilan Antrian Radiologi - Form Dashboard Antrian Radiologi[/li][li]Form E-tiket Antrian Laboratorium - Form Panggilan Antrian Laboratorium - Form Dashboard Antrian Laboratorium[/li][li]Form E-tiket Antrian Rawat Jalan - Form Panggilan Antrian Rawat Jalan - Form Dashboard Antrian Rawat Jalan[/li][li]Form E-tiket Antrian Farmasi - Form Panggilan Antrian Farmasi - Form Dashboard Antrian Farmasi[/li][li]Form E-tiket Antrian Rawat Jalan (Eksekutif) - Form Panggilan Antrian Rawat Jalan (Eksekutif) - Form Dashboard Antrian Rawat Jalan (Eksekutif)[/li][li]Form E-tiket Antrian Farmasi (Eksekutif) - Form Panggilan Antrian Farmasi (Eksekutif) - Form Dashboard Antrian Farmasi (Eksekutif)[/li][li]Form E-tiket Antrian Vaksin (Covid 19) - Form Panggilan Antrian Vaksin (Covid 19)[/li][/ul]"
-        },
-        {
-          "title": "Pembentukan E-Klaim",
-          "isRangeDate": true,
-          "displayDateType": "MonthYear",
-          "from": "2019-11-01",
-          "to": "2020-01-31",
-          "description": "Modul ini Bridging dengan Aplikasi milik Kementerian Keesehatan dengan Full Web Service"
-        },
-        {
-          "title": "E-Medical Record",
-          "isRangeDate": true,
-          "displayDateType": "MonthYear",
-          "from": "2018-09-01",
-          "to": "2019-05-01",
-          "description": "E-Medical Record adalah data rekam medis pasien yang tersimpan secara elektronik dan terpusat. Modul ini membantu para pekerja medis seperti dokter dan perawat dalam mempercepat proses mencari data dan melihat riwayat rekam medis pasien. Pada project ini saya dan tim mengembangkan rekam medis untuk instalasi rawat jalan reguler dan rawat inap. Modul E-Medical Record ini terdiri dari beberapa form elektronik untuk masing-masing spesialisasi seperti:[ul][li]Pemeriksaan awal[/li][li]Pemeriksaan kontrol[/li][li]Pemeriksaan mata[/li][li]Pemeriksaan gigi dan mulut[/li][li]Pemeriksaan psikiatrik[/li][li]Early Warning System[/li][li]Rencana Lab[/li][li]Rencana Radiologi[/li][li]Pengkajian, terapi dan intervensi keperawatan[/li][li]dan lain-lain[/ul]"
-        },
-        {
-          "title": "Formulir Survei Infeksi",
-          "isRangeDate": true,
-          "displayDateType": "MonthYear",
-          "from": "2017-02-01",
-          "to": "2017-04-01",
-          "description": "Modul yang memfasilitasi keadaan pasien selama periode rawat inap"
-        },
-        {
-          "title": "Anjuran Pendaftaran Mandiri (offline)",
-          "isRangeDate": true,
-          "displayDateType": "MonthYear",
-          "from": "2016-08-01",
-          "to": "2016-12-01",
-          "description": "Modul yang memfasilitasi pasien yang tidak mendapatkan SEP dari BPJS agar dapat berobat dengan data dokumen lengkap yang dimiliki pasien"
-        },
-        {
-          "title": "Laporan",
-          "isRangeDate": true,
-          "displayDateType": "MonthYear",
-          "from": "2016-03-01",
-          "to": "2016-07-01",
-          "description": "Migrasi aplikasi laporan desktop ke web Development"
-        },
-        {
-          "title": "E-Tiket Makan Gizi",
-          "isRangeDate": false,
-          "displayDateType": "MonthYear",
-          "from": "2015-11-01",
-          "to": "2016-02-01",
-          "description": "Mengembangkan modul aplikasi e-tiket makan gizi menggunakan Vb.Net. Modul ini terdiri dari: [ul][li]Master Jam[/li][li]Master Diet[/li][li]Master Takaran[/li][li]Transaksi[/li][li]Laporan[/li][/ul]"
-        },
-        {
-          "title": "Kegiatan Harian dan Inventaris Barang",
-          "isRangeDate": true,
-          "displayDateType": "MonthYear",
-          "from": "2014-11-01",
-          "to": "",
-          "description": "Mengembangkan modul aplikasi laporan kegiatan per pegawai menggunakan Vb.Net. Modul ini terdiri dari: [ul][li]Master Kegiatan[/li][li]Master Barang[/li][li]Transaksi Kegiatan[/li][li]Transaksi Inventaris Barang[/li][li]Laporan Kegiatan[/li][li]Laporan Inventaris Barang[/li][/ul]"
-        },
-        {
-          "title": "Laporan",
-          "isRangeDate": true,
-          "displayDateType": "MonthYear",
-          "from": "2014-06-01",
-          "to": "2014-08-01",
-          "description": "Membuat beberapa modul laporan menggunakan Vb.Net. Beberapa modul laporan yang saya kembangkan:[ul][li]Laporan Rawat Jalan[/li][li]Laporan Penunjang[/li][li]Laporan Data Sosial[/li][li]Laporan RL [i](Rekam Medis) [/i][/li][li]Laporan Akuntasi dan Anggaran[/li][li]Laporan Respone Time[/li][li]Laporan Sapa Dokter (Absensi)[/li][li]dan lain-lain[/li][/ul]"
+            "key": "address",
+            "name": "Domisili",
+            "value": "Komplek Karang Tengah Permai, Jl. Yudistira Blok TM No 12 A, Tangerang, Karang tengah"
         }
-      ]
-    },
-    {
-      "officeName": "Freelance Web & Dekstop App Developer",
-      "location": "Indonesia",
-      "image": "freelancer.jpg",
-      "title": "Self Employed",
-      "description": "Mengembangkan aplikasi dari berbagai project",
-      "displayDateType": "MonthYear",
-      "isRangeDate": true,
-      "from": "2017-01-01",
-      "to": "",
-      "workDone": [
+    ],
+    "contact": [
         {
-          "title": "Sistem Pelaporan Akuntansi",
-          "isRangeDate": true,
-          "displayDateType": "MonthYear",
-          "from": "2017-08-01",
-          "to": "2017-12-01",
-          "description": "Mengembangkan sistem laporan dengan menggunakan Vb.Net"
+            "type": "phone",
+            "icon": "phone",
+            "value": "+62 856 91 777 022"
         },
         {
-          "title": "Sistem Informasi Penjualan ALMA Alat Tulis Kantor & Foto Copy",
-          "isRangeDate": true,
-          "displayDateType": "MonthYear",
-          "from": "2018-01-01",
-          "to": "2018-05-01",
-          "description": "Bagian dari tim yang mengembangkan sistem informasi Penjualan ATK, yang terdiri dari modul:[ul][li]Back-office (Inventory Barang, Laporan Penjualan)[/li][li]Front-office (Master Barang, Master Layanan, Master Carabayar, Penjualan, billing)[/li][/ul]"
+            "type": "email",
+            "icon": "envelope-o",
+            "value": "chandraaknesnugroho@gmail.com"
         },
         {
-          "title": "Sistem Informasi Penjualan Rosseta Coffee & Bread",
-          "isRangeDate": true,
-          "displayDateType": "MonthYear",
-          "from": "2019-05-01",
-          "to": "2019-10-01",
-          "description": "Bagian dari tim yang mengembangkan sistem informasi Penjualan Coffee & Bread, yang terdiri dari modul:[ul][li]Back-office (Inventory Barang, Laporan Penjualan)[/li][li]Front-office (Master Barang, Master Jenis Barang, Master Carabayar, Master Satuan Penjualan, billing)[/li][/ul]"
+            "type": "gitlab",
+            "icon": "gitlab",
+            "value": "gitlab.com/cabasel"
         },
         {
-          "title": "Sistem Informasi Permohonan Pelayanan PBB Kabupaten Tangerang UPT-4",
-          "isRangeDate": true,
-          "displayDateType": "MonthYear",
-          "from": "2020-02-01",
-          "to": "2020-05-15",
-          "description": "Bagian dari tim yang mengembangkan sistem informasi Permohonan Pelayanan PBB, yang terdiri dari modul:[ul][li]Back-office[/li][li]Front-office[/li][/ul]"
+            "type": "github",
+            "icon": "github",
+            "value": "github.com/cabasel"
         },
         {
-          "title": "Sistem Informasi Klaim Unit Pelayanan Jaminan Kesehatan Jakarta Dinas Kesehatan Pemprov DKI Jakarta",
-          "isRangeDate": true,
-          "displayDateType": "MonthYear",
-          "from": "2021-05-15",
-          "to": "2021-12-15",
-          "description": "Bagian dari tim yang mengembangkan sistem informasi Klaim, yang terdiri dari modul:[ul][li]Back-end[/li][li]Front-end[/li][/ul]"
+            "type": "homepage",
+            "icon": "link",
+            "value": "cabasel.github.io/cabasel"
         }
-      ]
-    }
-  ],
-  "tools": [
-    "Jetbrains: PHPStorm, WebStorm, IntelliJ Idea",
-    "Tortoise Git",
-    "GitHub, GitLab",
-    "MySQL Workbench",
-    "DBeaver",
-    "Navicat",
-    "Notepad++, Sublime Text",
-    "Visual Studio Code",
-    "Postman",
-    "WinSCP",
-    "Microsoft Visual Studio 2008",
-    "Balsamiq Mockup"
-  ],
-  "trainingAndCertification": [
-    {
-      "title": "Pelatihan Android Dasar",
-      "description": "Dikeluarkan oleh IMA Studio",
-      "isRangeDate": true,
-      "displayDateType": "MonthYear",
-      "from": "2019-07-01",
-      "to": "2019-08-01"
-    },
-    {
-      "title": "Pelatihan Mikrotik RouterOS Training for Basic - Essentials (MTCNA)",
-      "description": "Dikeluarkan oleh PT Link Net",
-      "isRangeDate": false,
-      "displayDateType": "MonthYear",
-      "from": "2017-12-01",
-      "to": ""
-    },
-    {
-      "title": "PHP & MySQL Advanced",
-      "description": "Dikeluarkan oleh Brainmatics Cipta Informatika",
-      "isRangeDate": false,
-      "displayDateType": "MonthYear",
-      "from": "2016-04-01",
-      "to": ""
-    },
-    {
-      "title": "Microsoft Excel 2013",
-      "description": "Dikeluarkan oleh Brainmatics Cipta Informatika",
-      "isRangeDate": false,
-      "displayDateType": "MonthYear",
-      "from": "2016-05-14",
-      "to": ""
-    },
-    {
-      "title": "PHP & MySQL Fundamental & PHP Codeigniter Framework",
-      "description": "Dikeluarkan oleh Brainmatics Cipta Informatika",
-      "isRangeDate": false,
-      "displayDateType": "MonthYear",
-      "from": "2015-10-24",
-      "to": ""
-    }
-  ],
-  "education": [
-    {
-      "title": "Universitas Budi Luhur",
-      "description": "Sistem Informasi",
-      "isRangeDate": true,
-      "displayDateType": "MonthYear",
-      "from": "2008-09-01",
-      "to": "2014-01-01"
-    },
-    {
-      "title": "SMA Katika Jakarta",
-      "description": "Senior High School",
-      "isRangeDate": true,
-      "displayDateType": "Year",
-      "from": "2005-07-01",
-      "to": "2008-06-01"
-    }
-  ]
+    ],
+    "about": "Software developer yang memiliki passion, dengan pengalaman lebih dari 9 tahun di bidang [i]web development dan dekstop[/i] di industri pelayanan medis. Memiliki pengalaman mengembangkan aplikasi rumah sakit dengan jumlah modul yang besar dan mengetahui seluk beluk proses bisnis rumah sakit yang kompleks, baik [i]front-office[/i] maupun [i]back-office[/i]. Seorang praktisi teknis yang antusias, pekerja keras, teliti, suka mempelajari hal baru and berusaha mengikuti teknik dan desain yang bagus di dalam industri software development, suka mencari solusi yang lebih bagus dan efisien, suka berbagi ilmu dan menimba ilmu dari orang lain. Selalu menekankan pada pekerjaan yang terstruktur dengan rapi dan bersih.",
+    "skills": [
+        {
+            "name": "PHP",
+            "value": 75
+        },
+        {
+            "name": "CodeIgniter",
+            "value": 65
+        },
+        {
+            "name": "MVC Concept",
+            "value": 60
+        },
+        {
+            "name": "jQuery",
+            "value": 85
+        },
+        {
+            "name": "MySQL / MariaDB",
+            "value": 65
+        },
+        {
+            "name": "JavaScript",
+            "value": 90
+        },
+        {
+            "name": "RESTful API Concept",
+            "value": 90
+        },
+        {
+            "name": "HTML & CSS",
+            "value": 50
+        },
+        {
+            "name": "Git",
+            "value": 75
+        },
+        {
+            "name": "Vb.Net",
+            "value": 40
+        },
+        {
+            "name": "Power Builder",
+            "value": 30
+        },
+        {
+            "name": "Node JS",
+            "value": 90
+        },
+        {
+            "name": "Bun",
+            "value": 80
+        },
+        {
+            "name": "PostgreSQL",
+            "value": 80
+        }
+    ],
+    "experiences": [
+        {
+            "officeName": "Rumah Sakit Umum Pusat Fatmawati",
+            "location": "Jakarta Selatan",
+            "image": "rsf.png",
+            "title": "Programmer",
+            "description": "Pekerjaan utama saya di RSUP Fatmawati adalah sebagai software developer dan analis sistem. Terkadang saya mendapat pekerjaan menginstall dan mengkonfigurasi aplikasi di server, mengumpulkan requirement dari user untuk pembuatan aplikasi, membuat mockup aplikasi, merancang database, bekerja dengan bagian akuntansi dalam pembuatan laporan logistik, sosialisasi penggunaan aplikasi kepada user dan pekerjaan lainnya.\nPada posisi ini, saya dan tim mengembangkan sistem informasi rumah sakit yang bernama Fatmahost, sebuah aplikasi monolitik yang terdiri dari banyak modul yang menunjang proses bisnis rumah sakit. Saya terlibat dalam pengembangan back-end dan front-end. Berikut ini adalah project / modul aplikasi yang saya kembangkan:",
+            "displayDateType": "MonthYear",
+            "isRangeDate": true,
+            "from": "2014-06-01",
+            "to": "",
+            "workDone": [
+                {
+                    "title": "Reservasi",
+                    "isRangeDate": true,
+                    "displayDateType": "MonthYear",
+                    "from": "",
+                    "to": "",
+                    "description": "Pembuatan modul Back-End terkait reservasi online pasien, terbridging dengan sisten BPJS"
+                },
+                {
+                    "title": "Stok Opname Farmasi",
+                    "isRangeDate": true,
+                    "displayDateType": "MonthYear",
+                    "from": "",
+                    "to": "",
+                    "description": "Modul yang memfasilitasi terkait input stok opname"
+                },
+                {
+                    "title": "Katalog Farmasi",
+                    "isRangeDate": true,
+                    "displayDateType": "MonthYear",
+                    "from": "",
+                    "to": "",
+                    "description": "Modul yang memfasilitasi terkait input data master katalog farmasi dan bridging dengan katalog obat satu sehat"
+                },
+                {
+                    "title": "Notifikasi WhatsApp",
+                    "isRangeDate": true,
+                    "displayDateType": "MonthYear",
+                    "from": "",
+                    "to": "",
+                    "description": "Modul yang memfasilitasi pasien untuk menerima notifikasi terkait kode lupa password "
+                },
+                {
+                    "title": "E-Kinerja",
+                    "isRangeDate": true,
+                    "displayDateType": "MonthYear",
+                    "from": "2021-02-01",
+                    "to": "",
+                    "description": "Modul yang memfasilitasi satuan kerja untuk membuat IKU (Indikator Kinerja Utama). Modul ini terdiri dari: [ul][li]Master Satuan Kerja[/li][li]Master Satuan Realisasi[/li][li]Master Target Indikator[/li][li]Transaksi[/li][li]Dashboard Capaian Kinerja[/li][/ul]"
+                },
+                {
+                    "title": "Reservasi Offline",
+                    "isRangeDate": true,
+                    "displayDateType": "MonthYear",
+                    "from": "2020-12-01",
+                    "to": "",
+                    "description": "Modul yang Mengurangi resiko kerumunan saat pandemi dan gagal pendaftaran karena kurang dokumen lengkap untuk pasien bpjs"
+                },
+                {
+                    "title": "Konfirmasi Pendaftaran dan Bukti Bayar",
+                    "isRangeDate": true,
+                    "displayDateType": "MonthYear",
+                    "from": "2020-11-01",
+                    "to": "2020-12-01",
+                    "description": "Modul yang memfasilitasi satuan kerja terkait dalam mengecek bukti bayar reservasi online dan konfirmasi bahwa pasien sudah terlayani"
+                },
+                {
+                    "title": "Upload Bukti Bayar Reservasi Online",
+                    "isRangeDate": true,
+                    "displayDateType": "MonthYear",
+                    "from": "2020-10-01",
+                    "to": "2020-11-01",
+                    "description": "Modul yang memfasilitasi Pasien setelah melakukan pembayaran pendaftaran dengan mengUpload bukti bayar didalam aplikasi"
+                },
+                {
+                    "title": "Reservasi Online (Telemedicine)",
+                    "isRangeDate": true,
+                    "displayDateType": "MonthYear",
+                    "from": "2020-08-01",
+                    "to": "2020-10-01",
+                    "description": "Modul yang memfasilitasi kepatuhan protocol kesehatan COVID 19, sehingga pendaftaran dan konsultasi dokter melalui Online (WhatsApp Video Call)."
+                },
+                {
+                    "title": "Dashboard Status Antrian",
+                    "isRangeDate": true,
+                    "displayDateType": "MonthYear",
+                    "from": "2020-07-01",
+                    "to": "2020-08-01",
+                    "description": "Modul yang memfasilitasi kepatuhan protocol kesehatan COVID 19 dengan tidak berkerumun saat menunggu antrian, sehingga pasien dapat menunggu dimanapun tanpa harus takut kelewat antrian karena pasien dapat melihat antrian di smartPhone dengan mengetik URL yang di dapat saat mengambil E-tiket Antrian"
+                },
+                {
+                    "title": "Status Antrian Pasien",
+                    "isRangeDate": true,
+                    "displayDateType": "MonthYear",
+                    "from": "2020-06-01",
+                    "to": "2020-07-01",
+                    "description": "Modul yang memfasilitasi kepatuhan protocol kesehatan COVID 19 dengan tidak berkerumun saat menunggu antrian, sehingga pasien dapat menunggu dimanapun tanpa harus takut kelewat antrian karena pasien dapat melihat antrian di smartPhone dengan scan QR Code yang di dapat saat mengambil E-tiket Antrian"
+                },
+                {
+                    "title": "Buku Tamu",
+                    "isRangeDate": true,
+                    "displayDateType": "MonthYear",
+                    "from": "2020-06-15",
+                    "to": "2020-07-05",
+                    "description": "Modul ini memfasilitasi keluarga pasien saat ingin ZOOM ke pasien COVID 19 dengan mengisi data diri"
+                },
+                {
+                    "title": "Dashboard Pasien Covid 19",
+                    "isRangeDate": true,
+                    "displayDateType": "MonthYear",
+                    "from": "2020-06-01",
+                    "to": "2020-06-30",
+                    "description": "Modul ini membantu memberikan informasi jumlah pasien COVID 19. Modul ini terdiri dari: [ul][li]Terkonfirmasi[/li][li]Pasien Dalam Pengawasan (PDP)[/li][li]Orang Dalam Pengawasan (ODP)[/li][li]Orang Tidak Gejala (OTG)[/li][/ul]"
+                },
+                {
+                    "title": "Play Video",
+                    "isRangeDate": true,
+                    "displayDateType": "MonthYear",
+                    "from": "2020-05-01",
+                    "to": "2020-05-30",
+                    "description": "Modul ini membantu memberikan informasi digital terkait Rumah Sakit Fatmawati"
+                },
+                {
+                    "title": "Materi Edukasi",
+                    "isRangeDate": true,
+                    "displayDateType": "MonthYear",
+                    "from": "2020-04-01",
+                    "to": "2020-04-30",
+                    "description": "Modul ini memfasilitasi saat Akreditasi Rumah Sakit Fatmawati"
+                },
+                {
+                    "title": "Antrian",
+                    "isRangeDate": true,
+                    "displayDateType": "MonthYear",
+                    "from": "2020-02-01",
+                    "to": "2020-12-01",
+                    "description": "Modul ini membantu pasien dalam antri di setiap pendaftaran maupun penunjang lain nya. Modul Antrian ini terdiri dari beberapa form elektronik untuk masing-masing instalasi:[ul][li]Form E-tiket Antrian UTD - Form Panggilan Antrian UTD - Form Dashboard Antrian UTD[/li][li]Form E-tiket Antrian Radiologi - Form Panggilan Antrian Radiologi - Form Dashboard Antrian Radiologi[/li][li]Form E-tiket Antrian Laboratorium - Form Panggilan Antrian Laboratorium - Form Dashboard Antrian Laboratorium[/li][li]Form E-tiket Antrian Rawat Jalan - Form Panggilan Antrian Rawat Jalan - Form Dashboard Antrian Rawat Jalan[/li][li]Form E-tiket Antrian Farmasi - Form Panggilan Antrian Farmasi - Form Dashboard Antrian Farmasi[/li][li]Form E-tiket Antrian Rawat Jalan (Eksekutif) - Form Panggilan Antrian Rawat Jalan (Eksekutif) - Form Dashboard Antrian Rawat Jalan (Eksekutif)[/li][li]Form E-tiket Antrian Farmasi (Eksekutif) - Form Panggilan Antrian Farmasi (Eksekutif) - Form Dashboard Antrian Farmasi (Eksekutif)[/li][li]Form E-tiket Antrian Vaksin (Covid 19) - Form Panggilan Antrian Vaksin (Covid 19)[/li][/ul]"
+                },
+                {
+                    "title": "Pembentukan E-Klaim",
+                    "isRangeDate": true,
+                    "displayDateType": "MonthYear",
+                    "from": "2019-11-01",
+                    "to": "2020-01-31",
+                    "description": "Modul ini Bridging dengan Aplikasi milik Kementerian Keesehatan dengan Full Web Service"
+                },
+                {
+                    "title": "E-Medical Record",
+                    "isRangeDate": true,
+                    "displayDateType": "MonthYear",
+                    "from": "2018-09-01",
+                    "to": "2019-05-01",
+                    "description": "E-Medical Record adalah data rekam medis pasien yang tersimpan secara elektronik dan terpusat. Modul ini membantu para pekerja medis seperti dokter dan perawat dalam mempercepat proses mencari data dan melihat riwayat rekam medis pasien. Pada project ini saya dan tim mengembangkan rekam medis untuk instalasi rawat jalan reguler dan rawat inap. Modul E-Medical Record ini terdiri dari beberapa form elektronik untuk masing-masing spesialisasi seperti:[ul][li]Pemeriksaan awal[/li][li]Pemeriksaan kontrol[/li][li]Pemeriksaan mata[/li][li]Pemeriksaan gigi dan mulut[/li][li]Pemeriksaan psikiatrik[/li][li]Early Warning System[/li][li]Rencana Lab[/li][li]Rencana Radiologi[/li][li]Pengkajian, terapi dan intervensi keperawatan[/li][li]dan lain-lain[/ul]"
+                },
+                {
+                    "title": "Formulir Survei Infeksi",
+                    "isRangeDate": true,
+                    "displayDateType": "MonthYear",
+                    "from": "2017-02-01",
+                    "to": "2017-04-01",
+                    "description": "Modul yang memfasilitasi keadaan pasien selama periode rawat inap"
+                },
+                {
+                    "title": "Anjuran Pendaftaran Mandiri (offline)",
+                    "isRangeDate": true,
+                    "displayDateType": "MonthYear",
+                    "from": "2016-08-01",
+                    "to": "2016-12-01",
+                    "description": "Modul yang memfasilitasi pasien yang tidak mendapatkan SEP dari BPJS agar dapat berobat dengan data dokumen lengkap yang dimiliki pasien"
+                },
+                {
+                    "title": "Laporan",
+                    "isRangeDate": true,
+                    "displayDateType": "MonthYear",
+                    "from": "2016-03-01",
+                    "to": "2016-07-01",
+                    "description": "Migrasi aplikasi laporan desktop ke web Development"
+                },
+                {
+                    "title": "E-Tiket Makan Gizi",
+                    "isRangeDate": false,
+                    "displayDateType": "MonthYear",
+                    "from": "2015-11-01",
+                    "to": "2016-02-01",
+                    "description": "Mengembangkan modul aplikasi e-tiket makan gizi menggunakan Vb.Net. Modul ini terdiri dari: [ul][li]Master Jam[/li][li]Master Diet[/li][li]Master Takaran[/li][li]Transaksi[/li][li]Laporan[/li][/ul]"
+                },
+                {
+                    "title": "Kegiatan Harian dan Inventaris Barang",
+                    "isRangeDate": true,
+                    "displayDateType": "MonthYear",
+                    "from": "2014-11-01",
+                    "to": "",
+                    "description": "Mengembangkan modul aplikasi laporan kegiatan per pegawai menggunakan Vb.Net. Modul ini terdiri dari: [ul][li]Master Kegiatan[/li][li]Master Barang[/li][li]Transaksi Kegiatan[/li][li]Transaksi Inventaris Barang[/li][li]Laporan Kegiatan[/li][li]Laporan Inventaris Barang[/li][/ul]"
+                },
+                {
+                    "title": "Laporan",
+                    "isRangeDate": true,
+                    "displayDateType": "MonthYear",
+                    "from": "2014-06-01",
+                    "to": "2014-08-01",
+                    "description": "Membuat beberapa modul laporan menggunakan Vb.Net. Beberapa modul laporan yang saya kembangkan:[ul][li]Laporan Rawat Jalan[/li][li]Laporan Penunjang[/li][li]Laporan Data Sosial[/li][li]Laporan RL [i](Rekam Medis) [/i][/li][li]Laporan Akuntasi dan Anggaran[/li][li]Laporan Respone Time[/li][li]Laporan Sapa Dokter (Absensi)[/li][li]dan lain-lain[/li][/ul]"
+                }
+            ]
+        },
+        {
+            "officeName": "Freelance Web & Dekstop App Developer",
+            "location": "Indonesia",
+            "image": "freelancer.jpg",
+            "title": "Self Employed",
+            "description": "Mengembangkan aplikasi dari berbagai project",
+            "displayDateType": "MonthYear",
+            "isRangeDate": true,
+            "from": "2017-01-01",
+            "to": "",
+            "workDone": [
+                {
+                    "title": "Sistem Pelaporan Akuntansi",
+                    "isRangeDate": true,
+                    "displayDateType": "MonthYear",
+                    "from": "2017-08-01",
+                    "to": "2017-12-01",
+                    "description": "Mengembangkan sistem laporan dengan menggunakan Vb.Net"
+                },
+                {
+                    "title": "Sistem Informasi Penjualan ALMA Alat Tulis Kantor & Foto Copy",
+                    "isRangeDate": true,
+                    "displayDateType": "MonthYear",
+                    "from": "2018-01-01",
+                    "to": "2018-05-01",
+                    "description": "Bagian dari tim yang mengembangkan sistem informasi Penjualan ATK, yang terdiri dari modul:[ul][li]Back-office (Inventory Barang, Laporan Penjualan)[/li][li]Front-office (Master Barang, Master Layanan, Master Carabayar, Penjualan, billing)[/li][/ul]"
+                },
+                {
+                    "title": "Sistem Informasi Penjualan Rosseta Coffee & Bread",
+                    "isRangeDate": true,
+                    "displayDateType": "MonthYear",
+                    "from": "2019-05-01",
+                    "to": "2019-10-01",
+                    "description": "Bagian dari tim yang mengembangkan sistem informasi Penjualan Coffee & Bread, yang terdiri dari modul:[ul][li]Back-office (Inventory Barang, Laporan Penjualan)[/li][li]Front-office (Master Barang, Master Jenis Barang, Master Carabayar, Master Satuan Penjualan, billing)[/li][/ul]"
+                },
+                {
+                    "title": "Sistem Informasi Permohonan Pelayanan PBB Kabupaten Tangerang UPT-4",
+                    "isRangeDate": true,
+                    "displayDateType": "MonthYear",
+                    "from": "2020-02-01",
+                    "to": "2020-05-15",
+                    "description": "Bagian dari tim yang mengembangkan sistem informasi Permohonan Pelayanan PBB, yang terdiri dari modul:[ul][li]Back-office[/li][li]Front-office[/li][/ul]"
+                },
+                {
+                    "title": "Sistem Informasi Klaim Unit Pelayanan Jaminan Kesehatan Jakarta Dinas Kesehatan Pemprov DKI Jakarta",
+                    "isRangeDate": true,
+                    "displayDateType": "MonthYear",
+                    "from": "2021-05-15",
+                    "to": "2021-12-15",
+                    "description": "Bagian dari tim yang mengembangkan sistem informasi Klaim, yang terdiri dari modul:[ul][li]Back-end[/li][li]Front-end[/li][/ul]"
+                }
+            ]
+        }
+    ],
+    "tools": [
+        "Jetbrains: PHPStorm, WebStorm, IntelliJ Idea",
+        "Tortoise Git",
+        "GitHub, GitLab",
+        "MySQL Workbench",
+        "DBeaver",
+        "Navicat",
+        "Notepad++, Sublime Text",
+        "Visual Studio Code",
+        "Postman",
+        "WinSCP",
+        "Microsoft Visual Studio 2008",
+        "Balsamiq Mockup"
+    ],
+    "trainingAndCertification": [
+        {
+            "title": "Pelatihan Android Dasar",
+            "description": "Dikeluarkan oleh IMA Studio",
+            "isRangeDate": true,
+            "displayDateType": "MonthYear",
+            "from": "2019-07-01",
+            "to": "2019-08-01"
+        },
+        {
+            "title": "Pelatihan Mikrotik RouterOS Training for Basic - Essentials (MTCNA)",
+            "description": "Dikeluarkan oleh PT Link Net",
+            "isRangeDate": false,
+            "displayDateType": "MonthYear",
+            "from": "2017-12-01",
+            "to": ""
+        },
+        {
+            "title": "PHP & MySQL Advanced",
+            "description": "Dikeluarkan oleh Brainmatics Cipta Informatika",
+            "isRangeDate": false,
+            "displayDateType": "MonthYear",
+            "from": "2016-04-01",
+            "to": ""
+        },
+        {
+            "title": "Microsoft Excel 2013",
+            "description": "Dikeluarkan oleh Brainmatics Cipta Informatika",
+            "isRangeDate": false,
+            "displayDateType": "MonthYear",
+            "from": "2016-05-14",
+            "to": ""
+        },
+        {
+            "title": "PHP & MySQL Fundamental & PHP Codeigniter Framework",
+            "description": "Dikeluarkan oleh Brainmatics Cipta Informatika",
+            "isRangeDate": false,
+            "displayDateType": "MonthYear",
+            "from": "2015-10-24",
+            "to": ""
+        }
+    ],
+    "education": [
+        {
+            "title": "Universitas Budi Luhur",
+            "description": "Sistem Informasi",
+            "isRangeDate": true,
+            "displayDateType": "MonthYear",
+            "from": "2008-09-01",
+            "to": "2014-01-01"
+        },
+        {
+            "title": "SMA Katika Jakarta",
+            "description": "Senior High School",
+            "isRangeDate": true,
+            "displayDateType": "Year",
+            "from": "2005-07-01",
+            "to": "2008-06-01"
+        }
+    ]
 }
